@@ -1,0 +1,144 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.navbar {
+    background-color: transparent;
+}
+.navbar-brand small {
+  display:block;
+  font-size:18px;
+}
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+div.absolute {
+  position: top;
+  top: 200px;
+  right: 0;
+  width: 330px;
+  height: 380px;
+  border: 1px solid #000000;
+}
+.center {
+  position: absolute;
+  right: 30%;
+  top: 50%;
+  width: 100%;
+  text-align: justify;
+  font-size: 18px;
+}
+.carousel-item {
+  height: 85vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.third {
+  position: button;
+  background: rgba(250, 250, 250, 0.8);
+}
+btn.third {
+  position: button;
+  background: rgba(0, 0, 0, 0.3);
+}
+footer.third {
+  background: rgba(74, 187, 108, 0.7);
+}
+.third-jumbotron {
+  background: rgba(74, 187, 108, 0.7);
+}
+.icon-navbar{
+  width:50px;
+}
+.icon_box
+{
+  margin-bottom: 85px;
+}
+.icon_boxes_row
+{
+  margin-top: 100px;
+}
+.icon_box_icon
+{
+  width: 90px;
+  height: 90px;
+}
+.icon_box_icon img
+{
+  max-width: 100%;
+}
+.icon_box_footer
+{
+  width: 30px;
+  height: 30px;
+}
+.icon_box_title
+{
+  font-size: 20px;
+  font-weight: 600;
+  color: #404040;
+  padding-left: 25px;
+}
+.icon_box_text
+{
+  font-size: 14px;
+  font-weight: 500;
+  color: #838383;
+  line-height: 2.14;
+  margin-top: 21px;
+}
+.img-fluid 
+{
+  max-width: 100%;
+  height: auto;
+}
+.figure-img
+{
+  margin-bottom: 0.1rem;
+  line-height: 1;
+}
+.card-img-overlay
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1.25rem;
+}
+.button
+{
+  position: bottom;
+  width: 157px;
+  height: 44px;
+  background: #32c98a;
+  overflow: hidden;
+}
+.img-foto-vert
+{
+  border-radius: 20%;
+  max-width: 250px;
+  height: 300px;
+}
+.img-foto-horiz
+{
+  border-radius: 20%;
+  max-width: 250px;
+  height: 300px;
+}
